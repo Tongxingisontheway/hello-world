@@ -1,2 +1,3 @@
 # hello-world
-the first github
+I want to learn programming well!!
+
